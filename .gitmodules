@@ -7,3 +7,6 @@
 [submodule "Carthage/Checkouts/APIKit"]
 	path = Carthage/Checkouts/APIKit
 	url = https://github.com/ishkawa/APIKit.git
+[submodule "Carthage/Checkouts/OHHTTPStubs"]
+	path = Carthage/Checkouts/OHHTTPStubs
+	url = https://github.com/AliSoftware/OHHTTPStubs.git
